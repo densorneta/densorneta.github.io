@@ -1,0 +1,50 @@
+.plantel1 {
+    text-align: center;
+    padding: 30px;
+    background-color: rgb(185, 74, 74);
+}
+.plantel2 {
+    text-align: center;
+    padding: 30px;
+    background-color: red;
+}
+
+.arqueros
+{
+    background-color: rgb(233, 199, 199);
+    float: left;
+    width: 20.00%;
+    padding: 33.35px;
+
+   }
+.boton {
+    background-color: aquamarine;
+    padding: 35px;
+    border-radius: 25px;
+}
+.plantel3 {
+    text-align: center;
+    padding: 30px;
+    background-color: rgb(58, 70, 240);
+}
+.plantel4 {
+    text-align: center;
+    padding: 30px;
+    background-color: rgb(241, 215, 63);
+}
+.plantel5 {
+    text-align: center;
+    padding: 30px;
+    background-color: rgb(155, 0, 0);
+}
+.plantel6 {
+    text-align: center;
+    padding: 30px;
+    background-color: rgb(100, 43, 43);
+}
+
+
+.footer {
+    padding: 40px;
+        background-color: rgb(181, 0, 218);
+}
